@@ -1,0 +1,11 @@
+section{
+
+  background-image: url('sunshine.jpg');
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+}
+ul li{
+
+  display: block;
+}
